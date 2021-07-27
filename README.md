@@ -1,1 +1,1 @@
-# autentification_authorizatio
+# autentification_authorization
